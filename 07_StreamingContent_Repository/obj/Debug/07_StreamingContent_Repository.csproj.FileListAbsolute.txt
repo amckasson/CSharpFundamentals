@@ -1,0 +1,6 @@
+C:\Users\Andrew\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_StreamingContent_Repository\bin\Debug\07_StreamingContent_Repository.dll
+C:\Users\Andrew\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_StreamingContent_Repository\bin\Debug\07_StreamingContent_Repository.pdb
+C:\Users\Andrew\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.dll
+C:\Users\Andrew\Desktop\ElevenFiftyProjects\GoldBadge\CSharpFundamentals\07_StreamingContent_Repository\obj\Debug\07_StreamingContent_Repository.pdb
