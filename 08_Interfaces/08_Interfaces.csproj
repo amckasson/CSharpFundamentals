@@ -5,11 +5,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{034FF1DB-8206-4439-9C78-CD616EAF9A2E}</ProjectGuid>
+    <ProjectGuid>{118C0350-FA5A-4EFB-9848-E58FE68729FF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_00_Challenges</RootNamespace>
-    <AssemblyName>00_Challenges</AssemblyName>
+    <RootNamespace>_08_Interfaces</RootNamespace>
+    <AssemblyName>08_Interfaces</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -49,16 +49,15 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CalculatorChallengeClass.cs" />
-    <Compile Include="MorningChallenge1.cs" />
-    <Compile Include="MorningChallengeW3D1\IKomodoInsurance.cs" />
-    <Compile Include="MorningChallengeW3D1\KomodoInsuranceVehicles.cs" />
-    <Compile Include="MorningChallengeW3D1\KomodoVehicleTests.cs" />
+    <Compile Include="Currency\Currency.cs" />
+    <Compile Include="Currency\ICurrency.cs" />
+    <Compile Include="Currency\Transaction.cs" />
+    <Compile Include="Fruit\Fruits.cs" />
+    <Compile Include="Fruit\IFruit.cs" />
+    <Compile Include="IFruitTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StudentClass.cs" />
-    <Compile Include="TeacherClass.cs" />
-    <Compile Include="CalculatorTest.cs" />
-    <Compile Include="UserClass.cs" />
+    <Compile Include="CurrencyTests.cs" />
+    <Compile Include="TransactionTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
