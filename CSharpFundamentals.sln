@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_StreamingContent_UIRefac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Async", "10_Async\10_Async.csproj", "{D7F0550C-01E6-45F3-94F0-5E68DDC79CDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_APIs", "11_APIs\11_APIs.csproj", "{9875D455-6AB2-4FF5-A355-027CBBD7804C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{D7F0550C-01E6-45F3-94F0-5E68DDC79CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7F0550C-01E6-45F3-94F0-5E68DDC79CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7F0550C-01E6-45F3-94F0-5E68DDC79CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9875D455-6AB2-4FF5-A355-027CBBD7804C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9875D455-6AB2-4FF5-A355-027CBBD7804C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9875D455-6AB2-4FF5-A355-027CBBD7804C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9875D455-6AB2-4FF5-A355-027CBBD7804C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
