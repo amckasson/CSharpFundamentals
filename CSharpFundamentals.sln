@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Interfaces", "08_Interfa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_StreamingContent_UIRefactor", "09_StreamingContent_UIRefactor\09_StreamingContent_UIRefactor.csproj", "{B793D105-EFEE-418B-8116-E507118E7526}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_Async", "10_Async\10_Async.csproj", "{D7F0550C-01E6-45F3-94F0-5E68DDC79CDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{B793D105-EFEE-418B-8116-E507118E7526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B793D105-EFEE-418B-8116-E507118E7526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B793D105-EFEE-418B-8116-E507118E7526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7F0550C-01E6-45F3-94F0-5E68DDC79CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F0550C-01E6-45F3-94F0-5E68DDC79CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F0550C-01E6-45F3-94F0-5E68DDC79CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F0550C-01E6-45F3-94F0-5E68DDC79CDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
